@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PublicTransportationBrianW</string>
+    <string name="imgDescription">Public Transit image</string>
+    <string name="txtTitle">Choose your mode of Transit</string>
+</resources>
